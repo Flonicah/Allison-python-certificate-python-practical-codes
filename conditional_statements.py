@@ -28,3 +28,4 @@ if a>b:
 
         if name=="cat" or age==5:
             print("one condition has been satisfield")
+            
