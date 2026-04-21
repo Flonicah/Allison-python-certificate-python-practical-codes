@@ -11,3 +11,19 @@ c= a +b    # created a variable c which stores the sum value of a and b addition
 print(c) # prints out the value 4
   
 print(c-1)
+
+
+# practice on data type d = 10
+
+a=10
+b=5
+sum=a+b 
+print(sum)
+# getting the data type of the variable sum
+print(type(sum))
+
+#string data type with variable
+
+name="peter"
+print(name)
+print(type(name))
