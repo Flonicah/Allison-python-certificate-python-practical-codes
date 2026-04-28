@@ -11,4 +11,24 @@ boolean is normally a true or false
 
 Variable assignment inorder to store data
 
+Lesson Summary
+The main points covered in this module are:
+Python arithmetical operators are: addition (+), subtraction (-), multiplication (*), division (/), floor (//), and moduo (%).
+Python comparison operators are:
+Equal (==) Example: 5==3+2
+Not equal (!=) Example: 5!=2+2
+Less than (<) Example: 5<10
+Greater than (>) Example: 5>4
+Less than or equal to (<=) Example: 5<=6
+Greater than or equal to (>=) Example: 5>=4
+Python conditional statements are used for the following:
+IF: checks a condition and executes code if true.
+ELIF: checks another condition if the previous one is false.
+ELSE: executes code if all conditions are false.
+Loops are used to repeat a block of code for a specified number of times.
+Variables are used to store values.
+
+
+
+
 """
