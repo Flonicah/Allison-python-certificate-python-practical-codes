@@ -29,6 +29,11 @@ Loops are used to repeat a block of code for a specified number of times.
 Variables are used to store values.
 
 
+DIPLOMA LEVEL EXPECTATION COURSE LESSONS
 
+Learning Outcomes
+Explain why python is one of the easier programming languages to learn.
+Identify how create the "hello world" program with python in visual studio.
+Discuss the importance of commenting your code.
 
 """
